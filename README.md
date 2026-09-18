@@ -19,7 +19,7 @@ I’m interested in programming, problem solving, Data Structures & Algorithms, 
 ### 🌟 Key Highlights
 
 - 🎓 B.Tech — Computer Science & Design
-- 📚 Currently studying in **Semester 4**
+- 📚 Currently studying in **Semester 5**
 - 🐍 Learning **Python**
 - 💻 Practicing **Data Structures & Algorithms**
 - 🚀 Preparing for **GATE 2028**
