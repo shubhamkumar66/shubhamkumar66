@@ -1,81 +1,89 @@
-## Hi there 👋
-
-<!--# Hi there, I'm Shubham Kumar 👋
-
 ## 👨‍💻 About Me
 
-I'm a B.Tech student in **Computer Science & Design (CSD)**, currently in **Semester 4**.
+<table>
+<tr>
+<td width="60%">
 
-I'm passionate about technology, programming, problem-solving, and continuous learning.
+>  
+> *IN — Integrity • Discipline • Code*
 
-- 🎓 B.Tech in Computer Science & Design
-- 🏫 AKTU affiliated institute
-- 📚 Currently in 2nd Year, Semester 4
-- 💻 Learning Programming & Data Structures
-- 🐍 Currently learning Python
-- 🎯 Preparing for GATE 2028
-- 🚀 Aspiring Software Engineer
+Hey! I'm **Shubham Kumar**, a B.Tech student in **Computer Science & Design (CSD)**, currently in my **5th semester**.
 
-## 🛠️ Skills & Technologies
+I’m interested in programming, problem solving, Data Structures & Algorithms, and building useful projects. I’m continuously learning new technologies and improving my coding skills.
 
-- 💻 C
-- ☕ Java
-- 🐍 Python
-- 🌐 HTML & CSS
-- 📊 Data Structures & Algorithms
-- 🗄️ DBMS
-- 🧠 Computer Science Fundamentals
-- 🔧 Git & GitHub
+- 🌱 **Primary Focus:** Programming, DSA & Software Development
+- 🎯 **Mission:** Become a skilled Software Engineer
+- ⚡ **Daily Grind:** Learning, coding & solving problems
+- 🧠 **Languages:** C, C++, Java, Python, HTML, CSS
 
-## 📚 Currently Learning
+### 🌟 Key Highlights
 
-- Python
-- Data Structures & Algorithms
-- Web Development
-- Problem Solving
-- Git & GitHub
-- GATE Preparation
+- 🎓 B.Tech — Computer Science & Design
+- 📚 Currently studying in **Semester 4**
+- 🐍 Learning **Python**
+- 💻 Practicing **Data Structures & Algorithms**
+- 🚀 Preparing for **GATE 2028**
+- 🎯 Goal — **Software Engineer**
 
-## 🎯 My Goals
+</td>
 
-### Short-Term Goal
-To improve my programming skills, build real-world projects, and prepare for a good software engineering placement.
+<td width="40%" align="center">
 
-### Long-Term Goal
-To become a skilled **Software Engineer** and work on innovative and impactful projects.
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamkumar66&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkumar66&show_icons=true&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shubhamkumar66&theme=tokyonight)
-
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar66&layout=compact&theme=tokyonight)
-
-## 🤝 Let's Connect
-
-- 💼 GitHub: [@shubhamkumar66](https://github.com/shubhamkumar66)
-- 📧 Email: YourEmail@example.com
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 🛠️ Tech Stack
 
-> "Consistency is the key to success. Keep learning, keep building. 🚀"
-**shubhamkumar66/shubhamkumar66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,git,github,vscode" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar66&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://streak-stats.demolab.com?user=shubhamkumar66&theme=tokyonight&hide_border=true" height="170">
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Strengthen programming fundamentals
+- 📚 Master Data Structures & Algorithms
+- 🐍 Become comfortable with Python
+- 🚀 Build real-world projects
+- 💼 Start preparing for placements
+- 🎓 Continue GATE 2028 preparation
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/shubhamkumar66">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ Keep Learning • Keep Building • Keep Growing 🚀
+
+</p>
